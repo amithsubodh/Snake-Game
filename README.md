@@ -58,3 +58,4 @@ A minimal, classic Snake game implemented with plain HTML, CSS, and JavaScript.
 - [ ] Pause freezes movement; resume continues from the same state.
 - [ ] Restart resets score and snake to initial state.
 
+
